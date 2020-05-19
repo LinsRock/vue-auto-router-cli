@@ -2,9 +2,8 @@
 根据视图文件自动生成路由配置和菜单的node包
 
 ## 指令
-heresy
-  - init <name>
-  - refresh
+  - `heresy init <name>`
+  - `heresy refresh`
   
 ## command
 `heresy init <name>`
